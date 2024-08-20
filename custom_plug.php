@@ -1,13 +1,12 @@
 <?php
 /*
  * Plugin Name:       Custome_Plug
- * Plugin URI:        https://www.google.co.in/
  * Description:       Custome_Plug helps you to extend existing features of your site.
  * Version:           1.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            sanjay vedpathak
- * Author URI:        https://www.google.co.in/
+ * Author URI:        https://github.com/SanjayVedpathak
  */
 
 
